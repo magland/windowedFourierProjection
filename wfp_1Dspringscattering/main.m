@@ -1,3 +1,5 @@
+mip load --install flatironinstitute/flatironinstitute/finufft
+
 startMatlabFile
 
 %% Set file directories to save data, figures, tables and movies
