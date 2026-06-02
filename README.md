@@ -8,8 +8,7 @@ and [finufft](https://github.com/flatironinstitute/finufft.git).
 
 ## Running Built-in Examples
 
-Enter the experiment number (`expNum`) in the driver file [main.m](wfp_1Dspringscattering
-/main.m) to run built-in examples.  
+Enter the experiment number (`expNum`) in the driver file [main.m](wfp_1Dspringscattering/main.m) to run built-in examples.  
 Parameters for example runs are found in `get_experimentParameters(expNum)`:
 
 - `expNum = 1`: Interpolation order 3 — manufactured solution convergence study with 10 randomly located sources in `[-2, 2]`, up to time `3π`.
